@@ -50,4 +50,5 @@ apscheduler
 pyshorteners 
 pyromod 
 colorama
+pip install pyrogram
 instaloader requests
