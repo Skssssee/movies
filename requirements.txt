@@ -50,4 +50,4 @@ apscheduler
 pyshorteners 
 pyromod 
 colorama
-
+instaloader
