@@ -5,7 +5,7 @@ import os
 from pyrogram.types import InputMediaPhoto, InputMediaVideo
 import re
 
-from movies import app 
+from Jisshubot import app 
 
 L = instaloader.Instaloader()
 
